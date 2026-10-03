@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-card {
+  background-color: #222222;
+  color: white;
+  max-width: 420px;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+input {
+  background-color: gray;
+  color: white;
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+button {
+  background-color: #222222;
+  color: white;
+  border-radius: 20px;
+  padding: 5px;
+}
